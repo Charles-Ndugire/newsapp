@@ -12,7 +12,9 @@ The application consumes the [NewsAPI](https://newsapi.org/) hence the applicati
 
 
 ## Live link
-Visit the application on https://the-daily-telegram.herokuapp.com/ .
+
+ Click [link](https://the-daily-telegram.herokuapp.com/)  to see the site
+
 
 ## Development
 To make advancements/modifications, follow these steps:
