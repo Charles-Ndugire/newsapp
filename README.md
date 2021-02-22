@@ -37,7 +37,7 @@ Technologies used to develop this application:
 
 ## Support and contact details
 
-Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[kamaulorna@gmail.com](mailto:kamaulorna@gmail.com)
+Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[ndugirecharles@gmail.com]
 
 ## To-do
 1. Include pagination for API responses
