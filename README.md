@@ -38,7 +38,7 @@ To get the code..
   ```
 3. Exporting Configurations
   ```bash
-  export API_KEY='{Enter your News Api Key}'
+  export API_KEY='<Enter your News Api Key>'
   ```
 4. Running the application
   ```bash
