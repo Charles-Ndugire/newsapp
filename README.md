@@ -1,7 +1,9 @@
 # The Daily News.
 #### An application that allows users to list and preview news articles from various sources all around the world , 1/06/2020.
-#### Charles Ndugire.
 
+## Author
+
+[Charles-Ndugire](https://github.com/Charles-Ndugire)
 ## Description
 The application consumes the [NewsAPI](https://newsapi.org/) hence the application provides the following functionalities to users:
 - View top stories. These are displayed on the landing page in carousel form. Each carousel item has a clickable link that allows the user to read the top story's article.
