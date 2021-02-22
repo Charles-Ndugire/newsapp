@@ -29,11 +29,11 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  git clone https://github.com/Owiti-Charles/News_Bulletins.git
+  git clone https://github.com/Charles-Ndugire/newsapp.git
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd News_Bulletins
+  cd newsapp
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
@@ -56,6 +56,8 @@ Open the application on your browser `127.0.0.1:5000`.
 * [Python3.6](https://www.python.org/)
 * [Flask](http://flask.pocoo.org/)
 * [Heroku](https://heroku.com)
+* HTML 
+* CSS
 
 
 ## Known Bugs
