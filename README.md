@@ -16,34 +16,55 @@ The application consumes the [NewsAPI](https://newsapi.org/) hence the applicati
  Click the [link](https://the-daily-telegram.herokuapp.com/)  to see the site
 
 
-## Development
-To make advancements/modifications, follow these steps:
+## User Story
 
-- Fork the repository
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-## Technologies Used
-Technologies used to develop this application:
-
-1. Python v3.6
-2. Flask 1.1.2
-3. Flask-Bootstrap
-4. HTML 
-5. CSS
+1. A user would see various news sources on the homepage of the application.
+2. A user would also be able to select a news source and see all news articles from the selected news source in the application.
+3. A user will be able to see the image, description and the time a news article was created from the News-Articles tab.
+4. A click on an article and read the full article on the source website.
 
 
-## Support and contact details
+## Development Installation
+To get the code..
 
-Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[ndugirecharles@gmail.com]
+1. Cloning the repository:
+  ```bash
+  git clone https://github.com/Owiti-Charles/News_Bulletins.git
+  ```
+2. Move to the folder and install requirements
+  ```bash
+  cd News_Bulletins
+  pip install -r requirements.txt
+  ```
+3. Exporting Configurations
+  ```bash
+  export API_KEY='{Enter your News Api Key}'
+  ```
+4. Running the application
+  ```bash
+  python3.6 manage.py server
+  ```
+5. Testing the application
+  ```bash
+  python3.6 manage.py test
+  ```
+Open the application on your browser `127.0.0.1:5000`.
 
-## To-do
-1. Include pagination for API responses
 
-## [License](https://github.com/lornakamau/the-daily-telegram/blob/master/LICENSE.md)
+## Technology used
 
-Copyright (c) 2020 [Charles Ndugire](https://github.com/lornakamau)  
+* [Python3.6](https://www.python.org/)
+* [Flask](http://flask.pocoo.org/)
+* [Heroku](https://heroku.com)
+
+
+## Known Bugs
+* There are no known bugs currently but pull requests are allowed incase you spot a bug
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [ndugirecharles@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2019 **Charles Ndugire**
