@@ -1,5 +1,5 @@
 # The Daily News.
-#### An application that allows users to list and preview news articles from various sources all around the world , 1/06/2020.
+#### An application that allows users to list and preview news articles from various sources all around the world , 19/02/2021.
 
 ## Author
 
