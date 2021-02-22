@@ -1,7 +1,6 @@
 # The Daily News.
-[![codebeat badge](https://codebeat.co/badges/48b8cb11-0f83-494b-8066-955c05e2c51e)](https://codebeat.co/projects/github-com-lornakamau-the-daily-telegram-master)
 #### An application that allows users to list and preview news articles from various sources all around the world , 1/06/2020.
-#### By Lorna Kamau
+#### Charles Ndugire.
 
 ## Description
 The application consumes the [NewsAPI](https://newsapi.org/) hence the application provides the following functionalities to users:
