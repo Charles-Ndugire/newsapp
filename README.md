@@ -8,7 +8,6 @@ The application consumes the [NewsAPI](https://newsapi.org/) hence the applicati
 - Have access to news sources. The user has access to over 50 news sources of various categories. These are displayed on the landing page in card format for each news source.
 - Search for articles from all around the world. The user can search for an article by keyword.
 
-![landing](./app/static/images/landing.png)
 
 ## Live link
 Visit the application on https://the-daily-telegram.herokuapp.com/ .
