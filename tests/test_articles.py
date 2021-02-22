@@ -25,5 +25,6 @@ class ArticlesTest(unittest.TestCase):
         self.assertEqual(self.new_article.author, 'Stan Schroeder' )
         self.assertEqual(self.new_article.imageurl, 'https://abcnews.go.com' )
 
+        
 if __name__ == '__main__':
     unittest.main()
