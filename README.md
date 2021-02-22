@@ -42,4 +42,4 @@ Should you be unable to access the website, have any recommendations and/or ques
 
 ## [License](https://github.com/lornakamau/the-daily-telegram/blob/master/LICENSE.md)
 
-Copyright (c) 2020 [Lorna Kamau](https://github.com/lornakamau)  
+Copyright (c) 2020 [Charles Ndugire](https://github.com/lornakamau)  
